@@ -8,7 +8,13 @@ Automated level set segmentation of histopathologic cells with sparse shape prio
 2. Jun Kong, Pengyue Zhang, Yanhui Liang, George Teodoro, Daniel J. Brat, Fusheng Wang:
 Robust cell segmentation for histological images of Glioblastoma. ISBI 2016: 1041-1045
 ******************************************************
-To run the program you must include seed files as in '.\data\seed_detection_result\' ,shape prior data '.\data\prior\' and the sparse-solving toolbox '.\l1_ls_matlab\'.
+# Stage 1. Seed detection
+******************************************************
+Run getSeeds.m to detect seeds. Seeds will be used for level set function initialization in step 2.
+******************************************************
+# Stage 2. Contour deformation
+******************************************************
+To run the program you must include seed files as in '.\data\your_dataset\seed_detection_result\' ,shape prior data '.\data\trainingShape_v3.mat' and the sparse-solving toolbox '.\utilities\l1_ls_matlab\'.
 
 Functions for updating LSF:
 
@@ -19,11 +25,5 @@ lse.m: update the lsf in three steps: updateSR; updatef; updateLSF.
 sparse_solver.m: solving sparse representation.
 
 distance_map.m: generate distance maps from list of contour coordinates.
-
-Functions for performance evaluation:
-
-contour_generate.m(previously named as temp.m): eliminate empty cells in boundarycoordinates.mat; generate figures from boundarycoordinates.mat.
-
-genImageIphotoDrawXml.m: generate xml files.
 
 evaluate_performance.m: compute metrics.
