@@ -1,7 +1,11 @@
 # cell_seg_matlab
 ******************************************************
-Readme for sparse shape prior
-10/26/2015
+# Sparse shape prior based nuclei segmentation
+1. Pengyue Zhang, Fusheng Wang, George Teodoro, Yanhui Liang, Daniel J. Brat, Jun Kong:
+Automated level set segmentation of histopathologic cells with sparse shape prior support and dynamic occlusion constraint. ISBI 2017: 718-722
+
+2. Jun Kong, Pengyue Zhang, Yanhui Liang, George Teodoro, Daniel J. Brat, Fusheng Wang:
+Robust cell segmentation for histological images of Glioblastoma. ISBI 2016: 1041-1045
 ******************************************************
 To run the program you must include seed files as in '.\data\seed_detection_result\' ,shape prior data '.\data\prior\' and the sparse-solving toolbox '.\l1_ls_matlab\'.
 
