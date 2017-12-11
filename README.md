@@ -1,5 +1,6 @@
 ******************************************************
 # Sparse shape prior based nuclei segmentation
+******************************************************
 Paper citation:
 
 1. Pengyue Zhang, Fusheng Wang, George Teodoro, Yanhui Liang, Daniel J. Brat, Jun Kong:
