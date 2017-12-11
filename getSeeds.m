@@ -1,6 +1,7 @@
 % Function for seed detection
 function getSeeds(inputFileName)
 
+addpath('./utilities');
 %process all .bmp images
 if nargin==0
     dataPath = '.\data\512image\';

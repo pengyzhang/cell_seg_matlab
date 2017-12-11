@@ -1,31 +1,33 @@
-% Entrance function for sparse shape prior based levelset function
+%% @Pengyue Zhang
+%% Entrance function for sparse shape prior based levelset function
 % optimization
-function LSbatch(pathname, imgname, trainsetPath, resultPath)
+function LSbatch(pathname, imgname, seedPath, resultPath)
 if nargin == 0
    clc; close all;
-   pathname = './data/seed_detection_result/';
-   resultPath = './data/40Image_result/';
+   addpath('./utilities/');
+   addpath('./utilities/l1_ls_matlab/');
+   pathname = './data/GBM40/raw_image/';
+   seedPath = './data/GBM40/seed_detection_result/';
+   resultPath = './data/GBM40/result/';
    if ~isdir(resultPath)
        mkdir(resultPath);
    end
    files = dir([pathname '*.tif']);
    imgnames = {files.name}.';
-   trainsetPath = '.\data\prior\';
    imgIdx = [1,3,4,7,8,11,13,14,16,19,21,23,26];
    imgnames = imgnames(imgIdx);
    N = length(imgnames);
    for i = 1:N
-       fprintf('processing %s--%02d out of %02d...\n', imgnames{i}, i, N);
-       LSbatch(pathname, imgnames{i}, trainsetPath, resultPath);
+       fprintf('processing %s--%02d out of %02d.../n', imgnames{i}, i, N);
+       LSbatch(pathname, imgnames{i}, seedPath, resultPath);
        close all;
    end
    
    return;
 end
 % load training shape prior library and initialize shapes
-trainset = [trainsetPath 'trainingShape_v3.mat'];
-load(trainset);
-initialPhi = [pathname imgname '.mat'];
+load('./data/trainingShape_v3.mat');
+initialPhi = [seedPath imgname '.mat'];
 colorI = imread([pathname imgname]);
 rowRange = 1:size(colorI,1); colRange = rowRange;
 colorI = colorI(rowRange, colRange,:);
@@ -79,7 +81,7 @@ for n=1:iter_outer
     % level set function optimization
     [u, allU, c1, c2, transform]= lse(u, allU, I, g, R, peaks, transform, lambdaU, lambdaB, mu, xi, omega, nu, timestep, epsilon, iter_inner);
         
-    fprintf('n = %d\n', n);
+    fprintf('n = %d/n', n);
     if mod(n,1)==0
         pause(0.001);
         figure,imagesc(colorI,[0, 255]); axis off; axis equal;
