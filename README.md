@@ -26,4 +26,6 @@ sparse_solver.m: solving sparse representation.
 
 distance_map.m: generate distance maps from list of contour coordinates.
 
+Functions for evaluating performance:
+
 evaluate_performance.m: compute metrics.
