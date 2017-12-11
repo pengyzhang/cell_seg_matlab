@@ -1,4 +1,3 @@
-# cell_seg_matlab
 ******************************************************
 # Sparse shape prior based nuclei segmentation
 Paper citation:
