@@ -12,9 +12,14 @@ Robust cell segmentation for histological images of Glioblastoma. ISBI 2016: 104
 ******************************************************
 Two datasets are used to evaluate the experiment performance: DBM40 dataset from Emory Hospital Achive and TCGA dataset from online public resource. 512x512 image patches are used as processing units due to memory limits. Human annotation are performed on both datasets.
 ******************************************************
+# Shape prior generation
+******************************************************
+annotation.m: manually select N points on image and save x-y coordinates of the points as 2*N dimensional vector
+train_prior.m: load the vectors of shape priors. Interpolate uniformly on the vectores and reorder the points. Save the shape prior library as a matrix in which each colume represents a shape prior.
+******************************************************
 # Stage 1. Seed detection
 ******************************************************
-Run getSeeds.m to detect seeds. Seeds will be used for level set function initialization in step 2.
+Run getSeeds.m to detect seeds. Seeds will be used for level set function initialization in stage 2.
 ******************************************************
 # Stage 2. Contour deformation
 ******************************************************
