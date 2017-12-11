@@ -1,0 +1,11 @@
+    Mean 	 Var 	 Median Min 	 Max 
+CE: 2.46 	 1.27 	 2.00 	 1.00 	 5.00
+MR: 2.31 	 1.89 	 2.00 	 0.00 	 6.00
+FR: 1.23 	 1.48 	 1.00 	 0.00 	 5.00
+OR: 0.31 	 0.63 	 0.00 	 0.00 	 2.00
+UR: 0.23 	 0.60 	 0.00 	 0.00 	 2.00
+
+ CE overall: 1.72% 
+
+ MR overall: 1.62% 	 FR overall 0.86% 
+ cluster_over overall: 0.22% 	 cluster_under overall 0.16% 

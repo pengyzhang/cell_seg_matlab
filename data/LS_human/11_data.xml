@@ -1,0 +1,1996 @@
+﻿<!--Document-->
+<Document FileVersion="1.0">
+    <ExportImageSettings FileName="11_New.tif" JpegQuality="95" ResizeMode="KeepOriginalSize" ImageZoomFactor="100" ImageResizeWidth="0" ImageResizeHeight="0" ImageType="IMG_TIF" />
+    <ImageOptions IsNegative="False" IsGrayscale="False" IsSepia="False" Rotation="0">
+        <BrightnessContrast Brightness="0" Contrast="0" />
+        <HueSaturation Hue="0" Saturation="0" Lightness="0" />
+        <EmbossSettings UseEmboss="False" Angle="45" Strength="10" GreyLevel="160" />
+        <Canvas>
+            <Box Left="0" Top="0" Width="512" Height="512" />
+            <BackColor Alpha="255" R="255" G="255" B="255" />
+        </Canvas>
+        <Flip HorizontalFlip="False" VerticalFlip="False" />
+    </ImageOptions>
+    <Layers>
+        <Layer Name="Layer1" Visible="True" LockedShapesIndex="">
+            <Shapes>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="431.134185791016" Y="329.861053466797" />
+                            <Point X="430.169677734375" Y="335.165863037109" />
+                            <Point X="429.687438964844" Y="341.917388916016" />
+                            <Point X="429.205200195313" Y="349.151184082031" />
+                            <Point X="430.169677734375" Y="352.526947021484" />
+                            <Point X="435.956726074219" Y="357.831726074219" />
+                            <Point X="440.779266357422" Y="357.831726074219" />
+                            <Point X="446.566284179688" Y="357.349487304688" />
+                            <Point X="449.942077636719" Y="354.455963134766" />
+                            <Point X="452.835571289063" Y="350.597930908203" />
+                            <Point X="455.246856689453" Y="346.257659912109" />
+                            <Point X="455.246856689453" Y="340.470642089844" />
+                            <Point X="453.800079345703" Y="336.612609863281" />
+                            <Point X="450.906585693359" Y="329.378814697266" />
+                            <Point X="450.42431640625" Y="322.627258300781" />
+                            <Point X="442.226013183594" Y="319.733764648438" />
+                            <Point X="436.921234130859" Y="321.662750244141" />
+                            <Point X="434.027709960938" Y="324.074035644531" />
+                            <Point X="431.616455078125" Y="325.520782470703" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="329.861053466797" Y="327.449798583984" />
+                            <Point X="336.612609863281" Y="329.378814697266" />
+                            <Point X="341.435150146484" Y="338.059356689453" />
+                            <Point X="341.435150146484" Y="341.917388916016" />
+                            <Point X="339.988372802734" Y="345.293151855469" />
+                            <Point X="335.648101806641" Y="348.186676025391" />
+                            <Point X="329.861053466797" Y="351.562438964844" />
+                            <Point X="322.627258300781" Y="353.009216308594" />
+                            <Point X="317.804748535156" Y="353.009216308594" />
+                            <Point X="314.911224365234" Y="351.080200195313" />
+                            <Point X="307.195159912109" Y="340.952880859375" />
+                            <Point X="302.854888916016" Y="335.165863037109" />
+                            <Point X="307.677429199219" Y="331.307830810547" />
+                            <Point X="321.180511474609" Y="327.449798583984" />
+                            <Point X="328.896545410156" Y="326.967559814453" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="289.351806640625" Y="342.881896972656" />
+                            <Point X="292.727569580078" Y="346.739929199219" />
+                            <Point X="295.138854980469" Y="351.080200195313" />
+                            <Point X="296.103363037109" Y="357.349487304688" />
+                            <Point X="293.209838867188" Y="364.583282470703" />
+                            <Point X="290.316314697266" Y="372.29931640625" />
+                            <Point X="279.224487304688" Y="379.533111572266" />
+                            <Point X="272.955200195313" Y="380.979888916016" />
+                            <Point X="267.650421142578" Y="380.979888916016" />
+                            <Point X="262.827880859375" Y="378.086364746094" />
+                            <Point X="260.898895263672" Y="371.817077636719" />
+                            <Point X="264.274658203125" Y="365.065521240234" />
+                            <Point X="267.650421142578" Y="355.902740478516" />
+                            <Point X="274.884216308594" Y="346.257659912109" />
+                            <Point X="285.011535644531" Y="342.399658203125" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="204.475280761719" Y="319.733764648438" />
+                            <Point X="204.475280761719" Y="313.946716308594" />
+                            <Point X="203.510772705078" Y="309.124176025391" />
+                            <Point X="198.688247680664" Y="305.748413085938" />
+                            <Point X="194.830215454102" Y="306.230651855469" />
+                            <Point X="190.489944458008" Y="306.712921142578" />
+                            <Point X="187.114166259766" Y="307.677429199219" />
+                            <Point X="182.773895263672" Y="307.677429199219" />
+                            <Point X="180.36262512207" Y="308.15966796875" />
+                            <Point X="177.469116210938" Y="311.053192138672" />
+                            <Point X="176.504608154297" Y="315.393463134766" />
+                            <Point X="175.540100097656" Y="318.286987304688" />
+                            <Point X="175.057846069336" Y="324.556274414063" />
+                            <Point X="176.504608154297" Y="330.343322753906" />
+                            <Point X="183.256149291992" Y="334.68359375" />
+                            <Point X="190.007690429688" Y="333.236846923828" />
+                            <Point X="195.312469482422" Y="330.343322753906" />
+                            <Point X="198.205993652344" Y="325.520782470703" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="252.700576782227" Y="299.961364746094" />
+                            <Point X="247.395797729492" Y="299.961364746094" />
+                            <Point X="242.091018676758" Y="302.854888916016" />
+                            <Point X="238.715240478516" Y="305.748413085938" />
+                            <Point X="235.339477539063" Y="309.124176025391" />
+                            <Point X="232.928207397461" Y="312.982208251953" />
+                            <Point X="232.928207397461" Y="317.322479248047" />
+                            <Point X="236.303985595703" Y="321.662750244141" />
+                            <Point X="242.573272705078" Y="322.14501953125" />
+                            <Point X="244.984527587891" Y="321.180511474609" />
+                            <Point X="249.807067871094" Y="321.180511474609" />
+                            <Point X="254.629592895508" Y="319.251495361328" />
+                            <Point X="257.523101806641" Y="314.911224365234" />
+                            <Point X="260.898895263672" Y="308.15966796875" />
+                            <Point X="258.00537109375" Y="303.819396972656" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="385.802429199219" Y="267.650421142578" />
+                            <Point X="404.128021240234" Y="267.168182373047" />
+                            <Point X="411.844085693359" Y="269.097198486328" />
+                            <Point X="418.595611572266" Y="283.08251953125" />
+                            <Point X="406.057037353516" Y="286.940551757813" />
+                            <Point X="398.8232421875" Y="290.316314697266" />
+                            <Point X="389.660430908203" Y="290.798583984375" />
+                            <Point X="380.497619628906" Y="290.316314697266" />
+                            <Point X="373.74609375" Y="284.529266357422" />
+                            <Point X="372.29931640625" Y="280.188995361328" />
+                            <Point X="372.29931640625" Y="270.5439453125" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="264.274658203125" Y="266.203674316406" />
+                            <Point X="274.884216308594" Y="260.898895263672" />
+                            <Point X="286.940551757813" Y="261.863403320313" />
+                            <Point X="294.174346923828" Y="259.934387207031" />
+                            <Point X="303.337158203125" Y="256.55859375" />
+                            <Point X="310.088684082031" Y="260.898895263672" />
+                            <Point X="304.783905029297" Y="266.203674316406" />
+                            <Point X="299.479125976563" Y="268.614929199219" />
+                            <Point X="295.138854980469" Y="271.508453369141" />
+                            <Point X="292.245330810547" Y="280.671264648438" />
+                            <Point X="285.976043701172" Y="285.976043701172" />
+                            <Point X="280.671264648438" Y="289.351806640625" />
+                            <Point X="276.813232421875" Y="289.351806640625" />
+                            <Point X="270.061676025391" Y="290.316314697266" />
+                            <Point X="263.310150146484" Y="289.834075927734" />
+                            <Point X="256.55859375" Y="285.493774414063" />
+                            <Point X="257.523101806641" Y="288.387298583984" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="239.679748535156" Y="274.884216308594" />
+                            <Point X="234.857223510742" Y="277.295471191406" />
+                            <Point X="228.105682373047" Y="284.529266357422" />
+                            <Point X="223.765396118164" Y="289.834075927734" />
+                            <Point X="218.46061706543" Y="298.032379150391" />
+                            <Point X="221.354141235352" Y="304.301666259766" />
+                            <Point X="226.176666259766" Y="304.783905029297" />
+                            <Point X="230.99919128418" Y="302.854888916016" />
+                            <Point X="238.232986450195" Y="293.692077636719" />
+                            <Point X="246.431289672852" Y="291.763061523438" />
+                            <Point X="251.736068725586" Y="289.351806640625" />
+                            <Point X="254.629592895508" Y="276.330993652344" />
+                            <Point X="249.324813842773" Y="275.848724365234" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="116.22297668457" Y="271.508453369141" />
+                            <Point X="109.953689575195" Y="271.508453369141" />
+                            <Point X="102.71989440918" Y="270.5439453125" />
+                            <Point X="100.790878295898" Y="271.508453369141" />
+                            <Point X="97.4151077270508" Y="273.437469482422" />
+                            <Point X="95.0038452148438" Y="279.706756591797" />
+                            <Point X="95.4860992431641" Y="286.458282470703" />
+                            <Point X="99.8263778686523" Y="293.209838867188" />
+                            <Point X="111.400444030762" Y="295.138854980469" />
+                            <Point X="117.187484741211" Y="290.316314697266" />
+                            <Point X="120.563255310059" Y="283.08251953125" />
+                            <Point X="118.634239196777" Y="274.401977539063" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="366.512298583984" Y="243.055526733398" />
+                            <Point X="371.334838867188" Y="233.410461425781" />
+                            <Point X="375.192840576172" Y="227.141174316406" />
+                            <Point X="378.568634033203" Y="217.978363037109" />
+                            <Point X="380.015380859375" Y="210.744567871094" />
+                            <Point X="380.979888916016" Y="203.510772705078" />
+                            <Point X="371.817077636719" Y="197.241485595703" />
+                            <Point X="362.654266357422" Y="197.241485595703" />
+                            <Point X="356.867248535156" Y="200.135009765625" />
+                            <Point X="353.009216308594" Y="206.404296875" />
+                            <Point X="351.080200195313" Y="212.191329956055" />
+                            <Point X="348.6689453125" Y="217.496109008789" />
+                            <Point X="344.810913085938" Y="224.247650146484" />
+                            <Point X="343.846405029297" Y="230.516937255859" />
+                            <Point X="344.328643798828" Y="235.821731567383" />
+                            <Point X="344.810913085938" Y="243.055526733398" />
+                            <Point X="350.597930908203" Y="245.949035644531" />
+                            <Point X="359.278503417969" Y="245.949035644531" />
+                            <Point X="363.136535644531" Y="245.466781616211" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="308.15966796875" Y="250.289321899414" />
+                            <Point X="320.6982421875" Y="249.324813842773" />
+                            <Point X="333.236846923828" Y="238.232986450195" />
+                            <Point X="335.165863037109" Y="227.141174316406" />
+                            <Point X="326.003051757813" Y="224.729904174805" />
+                            <Point X="311.053192138672" Y="230.516937255859" />
+                            <Point X="304.783905029297" Y="233.892715454102" />
+                            <Point X="302.854888916016" Y="239.197494506836" />
+                            <Point X="298.032379150391" Y="248.360305786133" />
+                            <Point X="305.266174316406" Y="249.807067871094" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="240.644256591797" Y="233.892715454102" />
+                            <Point X="244.50227355957" Y="237.750732421875" />
+                            <Point X="244.984527587891" Y="242.091018676758" />
+                            <Point X="253.665084838867" Y="247.878051757813" />
+                            <Point X="258.969879150391" Y="247.878051757813" />
+                            <Point X="261.381134033203" Y="252.218322753906" />
+                            <Point X="256.076354980469" Y="255.111846923828" />
+                            <Point X="247.878051757813" Y="259.934387207031" />
+                            <Point X="238.715240478516" Y="259.452117919922" />
+                            <Point X="230.516937255859" Y="252.700576782227" />
+                            <Point X="224.729904174805" Y="246.913543701172" />
+                            <Point X="229.552429199219" Y="239.679748535156" />
+                            <Point X="233.410461425781" Y="234.374969482422" />
+                            <Point X="238.715240478516" Y="233.410461425781" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="294.174346923828" Y="177.951370239258" />
+                            <Point X="291.763061523438" Y="179.88037109375" />
+                            <Point X="288.869567871094" Y="183.256149291992" />
+                            <Point X="285.976043701172" Y="187.114166259766" />
+                            <Point X="291.280822753906" Y="189.525436401367" />
+                            <Point X="298.996856689453" Y="189.525436401367" />
+                            <Point X="302.854888916016" Y="189.043182373047" />
+                            <Point X="303.819396972656" Y="185.185165405273" />
+                            <Point X="307.677429199219" Y="182.291641235352" />
+                            <Point X="310.570953369141" Y="176.022354125977" />
+                            <Point X="307.677429199219" Y="175.540100097656" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="342.399658203125" Y="178.915863037109" />
+                            <Point X="356.384979248047" Y="174.575592041016" />
+                            <Point X="360.243011474609" Y="170.717575073242" />
+                            <Point X="366.994537353516" Y="167.82405090332" />
+                            <Point X="370.852569580078" Y="164.448272705078" />
+                            <Point X="364.101043701172" Y="160.108001708984" />
+                            <Point X="358.313995361328" Y="159.143493652344" />
+                            <Point X="346.739929199219" Y="157.696731567383" />
+                            <Point X="341.917388916016" Y="158.178985595703" />
+                            <Point X="337.094848632813" Y="164.448272705078" />
+                            <Point X="333.236846923828" Y="168.306304931641" />
+                            <Point X="331.307830810547" Y="173.611083984375" />
+                            <Point X="329.861053466797" Y="176.986862182617" />
+                            <Point X="335.165863037109" Y="179.39811706543" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="262.345642089844" Y="167.341796875" />
+                            <Point X="257.040863037109" Y="168.306304931641" />
+                            <Point X="254.147338867188" Y="169.270812988281" />
+                            <Point X="251.253829956055" Y="172.164321899414" />
+                            <Point X="247.878051757813" Y="176.022354125977" />
+                            <Point X="245.466781616211" Y="177.951370239258" />
+                            <Point X="244.984527587891" Y="179.88037109375" />
+                            <Point X="244.020034790039" Y="181.327133178711" />
+                            <Point X="242.573272705078" Y="186.631912231445" />
+                            <Point X="244.984527587891" Y="190.489944458008" />
+                            <Point X="251.736068725586" Y="190.489944458008" />
+                            <Point X="262.345642089844" Y="186.631912231445" />
+                            <Point X="269.097198486328" Y="185.667419433594" />
+                            <Point X="271.990692138672" Y="182.291641235352" />
+                            <Point X="272.955200195313" Y="177.469116210938" />
+                            <Point X="271.508453369141" Y="172.164321899414" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="269.579437255859" Y="157.696731567383" />
+                            <Point X="271.508453369141" Y="163.966018676758" />
+                            <Point X="276.813232421875" Y="167.341796875" />
+                            <Point X="285.976043701172" Y="170.235321044922" />
+                            <Point X="300.443634033203" Y="172.646575927734" />
+                            <Point X="305.266174316406" Y="171.682067871094" />
+                            <Point X="302.854888916016" Y="161.554763793945" />
+                            <Point X="293.692077636719" Y="154.32096862793" />
+                            <Point X="276.813232421875" Y="147.087173461914" />
+                            <Point X="272.472961425781" Y="147.569427490234" />
+                            <Point X="271.026184082031" Y="151.427444458008" />
+                            <Point X="270.5439453125" Y="154.32096862793" />
+                            <Point X="270.061676025391" Y="154.80322265625" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="132.137329101563" Y="118.634239196777" />
+                            <Point X="132.619583129883" Y="119.598747253418" />
+                            <Point X="136.477600097656" Y="118.634239196777" />
+                            <Point X="141.300140380859" Y="116.705230712891" />
+                            <Point X="147.569427490234" Y="111.882698059082" />
+                            <Point X="149.016189575195" Y="104.648902893066" />
+                            <Point X="145.158157348633" Y="99.8263778686523" />
+                            <Point X="133.584091186523" Y="100.308624267578" />
+                            <Point X="127.314796447754" Y="102.237640380859" />
+                            <Point X="122.492263793945" Y="106.095664978027" />
+                            <Point X="118.151992797852" Y="110.435943603516" />
+                            <Point X="117.669738769531" Y="117.669738769531" />
+                            <Point X="128.76155090332" Y="119.598747253418" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="110.435943603516" Y="123.456771850586" />
+                            <Point X="108.024673461914" Y="123.939025878906" />
+                            <Point X="102.71989440918" Y="124.421279907227" />
+                            <Point X="98.3796157836914" Y="125.868034362793" />
+                            <Point X="96.4506072998047" Y="125.868034362793" />
+                            <Point X="90.6635665893555" Y="126.832542419434" />
+                            <Point X="88.7345581054688" Y="127.314796447754" />
+                            <Point X="85.8410339355469" Y="130.208312988281" />
+                            <Point X="82.4652633666992" Y="135.513092041016" />
+                            <Point X="81.9830093383789" Y="144.193649291992" />
+                            <Point X="87.2877960205078" Y="148.533935546875" />
+                            <Point X="98.3796157836914" Y="148.533935546875" />
+                            <Point X="109.471435546875" Y="141.78239440918" />
+                            <Point X="116.705230712891" Y="139.371124267578" />
+                            <Point X="120.563255310059" Y="130.208312988281" />
+                            <Point X="118.151992797852" Y="127.797050476074" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="401.716766357422" Y="72.3379516601563" />
+                            <Point X="409.432800292969" Y="70.4089431762695" />
+                            <Point X="414.255340576172" Y="67.997673034668" />
+                            <Point X="415.219848632813" Y="58.3526153564453" />
+                            <Point X="407.503814697266" Y="50.6365661621094" />
+                            <Point X="402.681274414063" Y="47.743049621582" />
+                            <Point X="394.965209960938" Y="46.2962913513184" />
+                            <Point X="385.320159912109" Y="46.2962913513184" />
+                            <Point X="376.157348632813" Y="47.743049621582" />
+                            <Point X="372.29931640625" Y="50.1543121337891" />
+                            <Point X="371.334838867188" Y="58.3526153564453" />
+                            <Point X="376.639617919922" Y="65.1041564941406" />
+                            <Point X="387.249176025391" Y="68.9621810913086" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="360.243011474609" Y="86.3232879638672" />
+                            <Point X="370.852569580078" Y="86.3232879638672" />
+                            <Point X="377.604125976563" Y="83.4297714233398" />
+                            <Point X="380.979888916016" Y="80.5362548828125" />
+                            <Point X="378.568634033203" Y="72.8202056884766" />
+                            <Point X="370.852569580078" Y="70.4089431762695" />
+                            <Point X="362.172027587891" Y="67.5154190063477" />
+                            <Point X="354.455963134766" Y="62.2106399536133" />
+                            <Point X="347.22216796875" Y="62.2106399536133" />
+                            <Point X="339.988372802734" Y="65.1041564941406" />
+                            <Point X="334.68359375" Y="67.997673034668" />
+                            <Point X="327.449798583984" Y="72.8202056884766" />
+                            <Point X="327.932037353516" Y="77.6427383422852" />
+                            <Point X="336.612609863281" Y="77.6427383422852" />
+                            <Point X="345.775421142578" Y="80.5362548828125" />
+                            <Point X="352.526947021484" Y="84.3942794799805" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="326.003051757813" Y="122.01001739502" />
+                            <Point X="323.109527587891" Y="115.74072265625" />
+                            <Point X="321.180511474609" Y="108.989181518555" />
+                            <Point X="321.180511474609" Y="102.237640380859" />
+                            <Point X="325.038543701172" Y="95.9683532714844" />
+                            <Point X="331.790069580078" Y="95.4860992431641" />
+                            <Point X="335.648101806641" Y="100.308624267578" />
+                            <Point X="337.577117919922" Y="106.095664978027" />
+                            <Point X="341.917388916016" Y="111.400444030762" />
+                            <Point X="351.562438964844" Y="114.293968200684" />
+                            <Point X="354.455963134766" Y="117.187484741211" />
+                            <Point X="354.455963134766" Y="123.939025878906" />
+                            <Point X="350.597930908203" Y="129.243804931641" />
+                            <Point X="343.846405029297" Y="131.172821044922" />
+                            <Point X="335.648101806641" Y="129.243804931641" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="186.631912231445" Y="106.577919006348" />
+                            <Point X="186.149658203125" Y="107.542419433594" />
+                            <Point X="183.738403320313" Y="110.918197631836" />
+                            <Point X="180.844879150391" Y="113.811714172363" />
+                            <Point X="179.39811706543" Y="115.74072265625" />
+                            <Point X="177.469116210938" Y="120.563255310059" />
+                            <Point X="177.469116210938" Y="126.832542419434" />
+                            <Point X="178.433624267578" Y="132.619583129883" />
+                            <Point X="182.291641235352" Y="135.030838012695" />
+                            <Point X="188.078674316406" Y="133.101837158203" />
+                            <Point X="194.830215454102" Y="130.690567016602" />
+                            <Point X="202.064010620117" Y="123.456771850586" />
+                            <Point X="202.064010620117" Y="111.400444030762" />
+                            <Point X="198.205993652344" Y="103.68440246582" />
+                            <Point X="192.901214599609" Y="103.2021484375" />
+                            <Point X="190.489944458008" Y="105.131156921387" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="154.32096862793" Y="190.489944458008" />
+                            <Point X="160.590255737305" Y="188.560928344727" />
+                            <Point X="165.412780761719" Y="188.560928344727" />
+                            <Point X="170.235321044922" Y="188.078674316406" />
+                            <Point X="176.504608154297" Y="190.007690429688" />
+                            <Point X="177.469116210938" Y="192.901214599609" />
+                            <Point X="174.093338012695" Y="198.688247680664" />
+                            <Point X="171.682067871094" Y="203.993026733398" />
+                            <Point X="165.412780761719" Y="209.297805786133" />
+                            <Point X="157.696731567383" Y="211.226821899414" />
+                            <Point X="143.711395263672" Y="211.709075927734" />
+                            <Point X="141.300140380859" Y="206.88655090332" />
+                            <Point X="149.016189575195" Y="198.205993652344" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="303.819396972656" Y="218.46061706543" />
+                            <Point X="307.677429199219" Y="206.88655090332" />
+                            <Point X="312.017700195313" Y="203.028518676758" />
+                            <Point X="318.769256591797" Y="198.205993652344" />
+                            <Point X="333.236846923828" Y="193.865707397461" />
+                            <Point X="340.470642089844" Y="193.865707397461" />
+                            <Point X="345.775421142578" Y="200.617248535156" />
+                            <Point X="344.810913085938" Y="209.297805786133" />
+                            <Point X="340.470642089844" Y="211.709075927734" />
+                            <Point X="331.307830810547" Y="212.673583984375" />
+                            <Point X="323.109527587891" Y="216.049346923828" />
+                            <Point X="316.840240478516" Y="218.46061706543" />
+                            <Point X="308.641937255859" Y="219.907379150391" />
+                            <Point X="306.230651855469" Y="219.907379150391" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="181.809387207031" Y="207.368804931641" />
+                            <Point X="178.915863037109" Y="208.333297729492" />
+                            <Point X="174.093338012695" Y="210.262313842773" />
+                            <Point X="171.199829101563" Y="212.191329956055" />
+                            <Point X="170.717575073242" Y="215.084838867188" />
+                            <Point X="172.164321899414" Y="216.531600952148" />
+                            <Point X="175.540100097656" Y="216.531600952148" />
+                            <Point X="180.844879150391" Y="217.496109008789" />
+                            <Point X="185.667419433594" Y="221.836395263672" />
+                            <Point X="194.830215454102" Y="221.836395263672" />
+                            <Point X="198.205993652344" Y="219.42512512207" />
+                            <Point X="200.135009765625" Y="211.226821899414" />
+                            <Point X="198.688247680664" Y="208.333297729492" />
+                            <Point X="190.007690429688" Y="207.368804931641" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="109.953689575195" Y="182.291641235352" />
+                            <Point X="114.293968200684" Y="179.39811706543" />
+                            <Point X="119.116493225098" Y="178.433624267578" />
+                            <Point X="123.456771850586" Y="175.540100097656" />
+                            <Point X="124.421279907227" Y="171.199829101563" />
+                            <Point X="125.868034362793" Y="166.377288818359" />
+                            <Point X="124.421279907227" Y="163.483779907227" />
+                            <Point X="119.598747253418" Y="162.519271850586" />
+                            <Point X="116.22297668457" Y="162.519271850586" />
+                            <Point X="110.918197631836" Y="162.519271850586" />
+                            <Point X="108.506927490234" Y="163.966018676758" />
+                            <Point X="106.577919006348" Y="166.377288818359" />
+                            <Point X="103.68440246582" Y="166.377288818359" />
+                            <Point X="100.308624267578" Y="168.788558959961" />
+                            <Point X="95.4860992431641" Y="169.753067016602" />
+                            <Point X="93.5570831298828" Y="171.199829101563" />
+                            <Point X="91.6280746459961" Y="173.128829956055" />
+                            <Point X="89.2168121337891" Y="178.433624267578" />
+                            <Point X="88.7345581054688" Y="180.844879150391" />
+                            <Point X="90.6635665893555" Y="184.220657348633" />
+                            <Point X="94.5215911865234" Y="184.702911376953" />
+                            <Point X="99.8263778686523" Y="184.702911376953" />
+                            <Point X="103.2021484375" Y="184.220657348633" />
+                            <Point X="107.060173034668" Y="182.773895263672" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="223.283142089844" Y="133.101837158203" />
+                            <Point X="219.907379150391" Y="131.172821044922" />
+                            <Point X="213.638092041016" Y="132.137329101563" />
+                            <Point X="209.297805786133" Y="134.066345214844" />
+                            <Point X="199.170501708984" Y="139.853378295898" />
+                            <Point X="195.794723510742" Y="144.193649291992" />
+                            <Point X="189.525436401367" Y="157.214477539063" />
+                            <Point X="190.007690429688" Y="150.945190429688" />
+                            <Point X="194.347961425781" Y="163.483779907227" />
+                            <Point X="203.993026733398" Y="165.412780761719" />
+                            <Point X="210.744567871094" Y="165.412780761719" />
+                            <Point X="217.496109008789" Y="162.519271850586" />
+                            <Point X="224.247650146484" Y="157.214477539063" />
+                            <Point X="228.105682373047" Y="153.356460571289" />
+                            <Point X="232.928207397461" Y="146.604919433594" />
+                            <Point X="232.928207397461" Y="140.335632324219" />
+                            <Point X="229.070190429688" Y="135.995346069336" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="268.614929199219" Y="60.2816276550293" />
+                            <Point X="271.508453369141" Y="55.459098815918" />
+                            <Point X="274.884216308594" Y="50.6365661621094" />
+                            <Point X="276.813232421875" Y="44.8495292663574" />
+                            <Point X="274.401977539063" Y="41.4737586975098" />
+                            <Point X="266.203674316406" Y="40.5092544555664" />
+                            <Point X="259.452117919922" Y="41.4737586975098" />
+                            <Point X="254.629592895508" Y="49.1898078918457" />
+                            <Point X="254.147338867188" Y="56.9058570861816" />
+                            <Point X="254.147338867188" Y="62.6928939819336" />
+                            <Point X="260.416625976563" Y="65.1041564941406" />
+                            <Point X="265.239166259766" Y="62.2106399536133" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="236.786239624023" Y="66.0686645507813" />
+                            <Point X="242.091018676758" Y="68.9621810913086" />
+                            <Point X="251.736068725586" Y="72.3379516601563" />
+                            <Point X="254.629592895508" Y="81.0185089111328" />
+                            <Point X="253.665084838867" Y="86.8055419921875" />
+                            <Point X="250.289321899414" Y="90.1813125610352" />
+                            <Point X="245.949035644531" Y="92.1103286743164" />
+                            <Point X="232.445953369141" Y="91.6280746459961" />
+                            <Point X="228.587936401367" Y="90.6635665893555" />
+                            <Point X="224.729904174805" Y="83.4297714233398" />
+                            <Point X="224.729904174805" Y="73.7847137451172" />
+                            <Point X="226.658920288086" Y="66.0686645507813" />
+                            <Point X="231.4814453125" Y="65.5864105224609" />
+                            <Point X="232.928207397461" Y="65.5864105224609" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="164.448272705078" Y="55.941349029541" />
+                            <Point X="170.235321044922" Y="56.4236030578613" />
+                            <Point X="176.986862182617" Y="56.4236030578613" />
+                            <Point X="182.773895263672" Y="55.459098815918" />
+                            <Point X="191.936706542969" Y="57.3881072998047" />
+                            <Point X="195.312469482422" Y="62.6928939819336" />
+                            <Point X="197.723739624023" Y="69.4444351196289" />
+                            <Point X="196.759231567383" Y="74.2669677734375" />
+                            <Point X="187.114166259766" Y="75.7137222290039" />
+                            <Point X="181.327133178711" Y="77.1604843139648" />
+                            <Point X="172.164321899414" Y="74.2669677734375" />
+                            <Point X="166.377288818359" Y="72.3379516601563" />
+                            <Point X="160.590255737305" Y="67.997673034668" />
+                            <Point X="157.214477539063" Y="61.728385925293" />
+                            <Point X="157.214477539063" Y="59.799373626709" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="135.030838012695" Y="62.2106399536133" />
+                            <Point X="125.868034362793" Y="63.1751441955566" />
+                            <Point X="119.598747253418" Y="67.5154190063477" />
+                            <Point X="116.705230712891" Y="72.3379516601563" />
+                            <Point X="117.669738769531" Y="78.1249923706055" />
+                            <Point X="120.081001281738" Y="79.5717468261719" />
+                            <Point X="123.939025878906" Y="81.9830093383789" />
+                            <Point X="125.868034362793" Y="82.9475173950195" />
+                            <Point X="132.137329101563" Y="87.2877960205078" />
+                            <Point X="134.548599243164" Y="86.3232879638672" />
+                            <Point X="141.300140380859" Y="84.8765335083008" />
+                            <Point X="150.945190429688" Y="82.9475173950195" />
+                            <Point X="156.249984741211" Y="76.6782302856445" />
+                            <Point X="156.732223510742" Y="71.3734436035156" />
+                            <Point X="150.945190429688" Y="67.5154190063477" />
+                            <Point X="142.264633178711" Y="63.1751441955566" />
+                            <Point X="137.442108154297" Y="62.2106399536133" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="44.3672790527344" Y="58.3526153564453" />
+                            <Point X="49.672061920166" Y="57.870361328125" />
+                            <Point X="55.459098815918" Y="55.941349029541" />
+                            <Point X="62.6928939819336" Y="55.459098815918" />
+                            <Point X="70.4089431762695" Y="53.530086517334" />
+                            <Point X="74.7492141723633" Y="51.60107421875" />
+                            <Point X="76.1959762573242" Y="47.2607955932617" />
+                            <Point X="74.2669677734375" Y="42.9205169677734" />
+                            <Point X="67.0331726074219" Y="39.5447463989258" />
+                            <Point X="60.7638816833496" Y="39.5447463989258" />
+                            <Point X="53.530086517334" Y="43.8850250244141" />
+                            <Point X="47.743049621582" Y="45.3317832946777" />
+                            <Point X="44.3672790527344" Y="47.2607955932617" />
+                            <Point X="41.4737586975098" Y="48.7075538635254" />
+                            <Point X="38.5802421569824" Y="52.083324432373" />
+                            <Point X="38.0979881286621" Y="55.459098815918" />
+                            <Point X="39.5447463989258" Y="58.3526153564453" />
+                        </Points>
+                    </Data>
+                </Shape>
+                <Shape Type="SmoothPolygon">
+                    <Settings>
+                        <MiscSettings GroupRendering="Unknown" />
+                        <Font Name="Arial" Size="12" Style="Regular">
+                            <Color Alpha="255" R="0" G="0" B="0" />
+                        </Font>
+                        <Line Width="1" Dash="Solid" DashOffset="0" Join="Round" OutlineType="Color">
+                            <Color Alpha="255" R="234" G="22" B="30" />
+                        </Line>
+                        <Fill FillType="Color">
+                            <Color Alpha="0" R="255" G="255" B="255" />
+                            <GradientSettings Type="Linear" Angle="0" HorizontalOffset="0" VerticalOffset="0" StartExtension="0" EndExtension="0" BoundaryResize="100">
+                                <StartingColor Alpha="255" R="0" G="0" B="0" />
+                                <EndingColor Alpha="255" R="255" G="255" B="255" />
+                                <Blend />
+                            </GradientSettings>
+                            <EmbeddedImage Align="Center" ImageFillType="Stretch" Alpha="255" FileName="">
+                                <StretchSettings Type="KeepOriginalSize" Align="Center" ZoomFactor="100">
+                                    <Offset X="0" Y="0" />
+                                </StretchSettings>
+                                <TileSettings WrapMode="Tile">
+                                    <Offset X="0" Y="0" />
+                                </TileSettings>
+                                <ImageData><![CDATA[]]></ImageData>
+                            </EmbeddedImage>
+                        </Fill>
+                        <TextEffect UseTextEffect="False" />
+                        <EffectSettings>
+                            <Shadow UseShadow="False" Angle="45" Offset="5" Size="100" BlurLevel="0">
+                                <Color Alpha="255" R="0" G="0" B="0" />
+                            </Shadow>
+                            <Glow UseGlow="False" BlurLevel="20" Thickness="8">
+                                <Color Alpha="255" R="29" G="199" B="244" />
+                            </Glow>
+                        </EffectSettings>
+                    </Settings>
+                    <BlockText Align="Center" VerticalAlign="Middle" RightToLeft="Unknown">
+                        <Text></Text>
+                        <Margin Left="0" Top="0" Right="0" Bottom="0" />
+                    </BlockText>
+                    <Data Rotation="0">
+                        <Points>
+                            <Point X="29.4174346923828" Y="67.0331726074219" />
+                            <Point X="37.1334838867188" Y="66.5509185791016" />
+                            <Point X="45.814037322998" Y="67.0331726074219" />
+                            <Point X="49.672061920166" Y="71.3734436035156" />
+                            <Point X="50.1543121337891" Y="79.0894927978516" />
+                            <Point X="48.2253036499023" Y="84.8765335083008" />
+                            <Point X="41.9560127258301" Y="89.6990585327148" />
+                            <Point X="32.3109512329102" Y="89.2168121337891" />
+                            <Point X="23.6303977966309" Y="88.2523040771484" />
+                            <Point X="17.8433609008789" Y="83.9120254516602" />
+                            <Point X="19.7723731994629" Y="77.1604843139648" />
+                            <Point X="24.5949039459229" Y="70.8911972045898" />
+                        </Points>
+                    </Data>
+                </Shape>
+            </Shapes>
+        </Layer>
+    </Layers>
+    <Snapshots />
+</Document>
