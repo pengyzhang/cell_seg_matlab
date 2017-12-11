@@ -8,6 +8,10 @@ Automated level set segmentation of histopathologic cells with sparse shape prio
 2. Jun Kong, Pengyue Zhang, Yanhui Liang, George Teodoro, Daniel J. Brat, Fusheng Wang:
 Robust cell segmentation for histological images of Glioblastoma. ISBI 2016: 1041-1045
 ******************************************************
+# Datasets
+******************************************************
+Two datasets are used to evaluate the experiment performance: DBM40 dataset from Emory Hospital Achive and TCGA dataset from online public resource. 512x512 image patches are used as processing units due to memory limits. Human annotation are performed on both datasets.
+******************************************************
 # Stage 1. Seed detection
 ******************************************************
 Run getSeeds.m to detect seeds. Seeds will be used for level set function initialization in step 2.
