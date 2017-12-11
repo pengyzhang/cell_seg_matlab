@@ -15,7 +15,7 @@ Two datasets are used to evaluate the experiment performance: DBM40 dataset from
 ******************************************************
 # Shape prior generation
 ******************************************************
-annotation.m: manually select N points on image and save x-y coordinates of the points as 2*N dimensional vector
+annotation.m: manually select N points on image and save x-y coordinates of the points as 2*N dimensional vector.
 train_prior.m: load the vectors of shape priors. Interpolate uniformly on the vectores and reorder the points. Save the shape prior library as a matrix in which each colume represents a shape prior.
 ******************************************************
 # Stage 1. Seed detection
