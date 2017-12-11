@@ -1,6 +1,8 @@
 # cell_seg_matlab
 ******************************************************
 # Sparse shape prior based nuclei segmentation
+Paper citation:
+
 1. Pengyue Zhang, Fusheng Wang, George Teodoro, Yanhui Liang, Daniel J. Brat, Jun Kong:
 Automated level set segmentation of histopathologic cells with sparse shape prior support and dynamic occlusion constraint. ISBI 2017: 718-722
 
